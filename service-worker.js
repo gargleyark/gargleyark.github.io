@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cult-of-jeff-goldvue/precache-manifest.4509d04f1e293c5c055d34010b639248.js"
+  "/precache-manifest.adf9cb49532be902d118e3fefe15e682.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cult-of-jeff-goldvue"});
