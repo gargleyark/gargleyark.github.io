@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "05bc4efa35998b2b96ed",
-    "url": "/css/app.42921828.css"
+    "revision": "8a6f27373b00fc6acaa7",
+    "url": "/css/app.f5f099da.css"
   },
   {
-    "revision": "05bc4efa35998b2b96ed",
-    "url": "/js/app.2ad4258c.js"
+    "revision": "8a6f27373b00fc6acaa7",
+    "url": "/js/app.3bde25ff.js"
   },
   {
     "revision": "9c7e4ba4e3b400f42614",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/img/firemanjeff.91cd4798.png"
   },
   {
-    "revision": "f1fd109647134f990de106bc5a63efa5",
-    "url": "/img/merch-cushion.f1fd1096.jpg"
+    "revision": "ea05c86a791f4ec70c61d10338d2d0ba",
+    "url": "/img/merch-cushion.ea05c86a.jpg"
   },
   {
     "revision": "d909bfb0ae3ad73711d0d4a20e68186a",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/img/jeffwiseau.ca946fc8.png"
   },
   {
-    "revision": "361349633cd71d57f31c67c24e6078ba",
-    "url": "/img/merch-hat.36134963.jpg"
+    "revision": "376c4ae8e62f31b1b2bf17b0da68c8a8",
+    "url": "/img/merch-hat.376c4ae8.jpg"
   },
   {
     "revision": "f89a3959fb48756467013a57a2dbb5cd",
@@ -128,8 +128,8 @@ self.__precacheManifest = [
     "url": "/img/millenialjeff.69b991a3.png"
   },
   {
-    "revision": "32dfa097af7cf44b99008c83976fcd67",
-    "url": "/img/merch-poster.32dfa097.jpeg"
+    "revision": "fe9a13e7d20e751e2036a7b5bdb79efc",
+    "url": "/img/merch-poster.fe9a13e7.jpeg"
   },
   {
     "revision": "b4ae392208307133710d9ca3634b0ec5",
@@ -172,7 +172,7 @@ self.__precacheManifest = [
     "url": "/img/tremendousjeff.f6cb37e3.png"
   },
   {
-    "revision": "8de0d8a02e411d494d9943c196982885",
+    "revision": "57ce9724abd12ce3ef52dc72b35f351f",
     "url": "/index.html"
   },
   {
