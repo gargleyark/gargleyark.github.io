@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "d3be5cc89731886c3e8c",
-    "url": "/css/app.453f4f93.css"
+    "revision": "4488d95b9704250f1d2f",
+    "url": "/css/app.bdd06c30.css"
   },
   {
-    "revision": "d3be5cc89731886c3e8c",
-    "url": "/js/app.ecdff667.js"
+    "revision": "4488d95b9704250f1d2f",
+    "url": "/js/app.00eb83cc.js"
   },
   {
-    "revision": "9c7e4ba4e3b400f42614",
-    "url": "/js/chunk-vendors.3d26f4ec.js"
+    "revision": "066feb28d2be7c5df3ae",
+    "url": "/js/chunk-vendors.14a5ea93.js"
   },
   {
     "revision": "5e194f9694d4729450989e2bb80a7ad9",
@@ -30,10 +30,6 @@ self.__precacheManifest = [
   {
     "revision": "91cd4798eae22ef0e5868ef3da93a9d1",
     "url": "/img/firemanjeff.91cd4798.png"
-  },
-  {
-    "revision": "ea05c86a791f4ec70c61d10338d2d0ba",
-    "url": "/img/merch-cushion.ea05c86a.jpg"
   },
   {
     "revision": "d909bfb0ae3ad73711d0d4a20e68186a",
@@ -88,16 +84,24 @@ self.__precacheManifest = [
     "url": "/img/jeffwiseau.ca946fc8.png"
   },
   {
-    "revision": "376c4ae8e62f31b1b2bf17b0da68c8a8",
-    "url": "/img/merch-hat.376c4ae8.jpg"
-  },
-  {
     "revision": "f89a3959fb48756467013a57a2dbb5cd",
     "url": "/img/bicyclejeff.f89a3959.png"
   },
   {
     "revision": "d35a8a8e74caace7c424694a6cd4c2c0",
     "url": "/img/downwardstrendingjeff.d35a8a8e.png"
+  },
+  {
+    "revision": "3be99e58086eb14b56aac84b520d06d4",
+    "url": "/img/gravyboatjeff.3be99e58.png"
+  },
+  {
+    "revision": "feac4aaf6e67580f008121c804a22e17",
+    "url": "/img/gravyboatboatjeff.feac4aaf.png"
+  },
+  {
+    "revision": "837eef8bba14d4d7a44407beb99928d0",
+    "url": "/img/jeff-with-peas.837eef8b.png"
   },
   {
     "revision": "10da8c9b1a53598e1deae16c5f811c06",
@@ -128,8 +132,12 @@ self.__precacheManifest = [
     "url": "/img/millenialjeff.69b991a3.png"
   },
   {
-    "revision": "fe9a13e7d20e751e2036a7b5bdb79efc",
-    "url": "/img/merch-poster.fe9a13e7.jpeg"
+    "revision": "baa68b2c7426427fe69fcb7dbb69e3f8",
+    "url": "/img/boatjeff.baa68b2c.png"
+  },
+  {
+    "revision": "8172a6e598453f1cb1c6ef5133380a02",
+    "url": "/img/coastguardjeff.8172a6e5.gif"
   },
   {
     "revision": "b4ae392208307133710d9ca3634b0ec5",
@@ -144,16 +152,16 @@ self.__precacheManifest = [
     "url": "/img/jeffjeff.b95296a2.png"
   },
   {
-    "revision": "9829ba57a8f0009a0c9b1a4cfd76de74",
-    "url": "/img/merch-shower.9829ba57.jpg"
-  },
-  {
     "revision": "11c82a658767d8339e64dcdc685d10a6",
     "url": "/img/braveheartjeff.11c82a65.png"
   },
   {
     "revision": "ad0637e9738e34de4c50419c11c6b224",
     "url": "/img/billablejeff.ad0637e9.png"
+  },
+  {
+    "revision": "d7cbe2c54b7b42507474d54223a76b83",
+    "url": "/img/britishjeff.d7cbe2c5.png"
   },
   {
     "revision": "7f9f0a565245ae22ba25fea2016f9599",
@@ -172,7 +180,11 @@ self.__precacheManifest = [
     "url": "/img/tremendousjeff.f6cb37e3.png"
   },
   {
-    "revision": "641fb23e1a3920b10f88db4f39b7dcf7",
+    "revision": "06118adba80d012d6168fcd65c0812e9",
+    "url": "/img/pooljeff.06118adb.png"
+  },
+  {
+    "revision": "cfd3614fbdef65d6ba7bf9c47677c93f",
     "url": "/index.html"
   },
   {
